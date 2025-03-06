@@ -44,7 +44,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: '"Tecnología cuántica que multiplica tu eficiencia"'
+      text: Tecnología cuántica que multiplica tu eficiencia
       color: text-dark
       styles:
         self:
