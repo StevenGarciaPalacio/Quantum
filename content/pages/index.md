@@ -588,7 +588,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-        fontWeight: 400
+        fontWeight: 500
   - title:
       text: List of features here
       color: text-primary
