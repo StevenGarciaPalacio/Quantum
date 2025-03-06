@@ -402,7 +402,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Lo que nuestros clientes dicen de nosotros
     items:
       - title: >-
           “Gracias a MSL Quantum, hemos mejorado nuestra eficiencia operativa y
