@@ -435,8 +435,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          La automatización impulsada por IA nos ha permitido escalar nuestras
+          operaciones de manera efectiva.
         tagline: Maria Lopez
         subtitle: CTO de TechSolutions
         text: >
