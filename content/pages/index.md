@@ -55,10 +55,9 @@ sections:
       - type: FeaturedItem
         title: 40%
         subtitle: Reducción en tiempos operativos
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          *Automatizamos tus procesos logísticos y administrativos con RPA,
+          liberando recursos para lo estratégico.*
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
