@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      En MSL Quantum, utilizamos la inteligencia artificial para revolucionar la
+      manera en que operan las empresas, maximizando la eficiencia y reduciendo
+      costos.
     actions:
       - label: Get started
         altText: ''
