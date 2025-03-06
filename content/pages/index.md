@@ -439,9 +439,8 @@ sections:
           operaciones de manera efectiva.
         tagline: Maria Lopez
         subtitle: CTO de TechSolutions
-        text: >
-          La automatización impulsada por IA nos ha permitido escalar nuestras
-          operaciones de manera efectiva.
+        text: |
+          CRM y digitalizacion de procesos
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
