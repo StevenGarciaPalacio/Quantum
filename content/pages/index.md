@@ -128,7 +128,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Inicia ahora
+      - label: Comienza tu transformación
         altText: ''
         url: /
         showIcon: false
