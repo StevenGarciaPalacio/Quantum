@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Innovación cuántica para transformar tu negocio
       color: text-dark
       styles:
         self:
