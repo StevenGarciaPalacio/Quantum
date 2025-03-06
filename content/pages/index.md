@@ -407,7 +407,7 @@ sections:
       - title: >-
           “Gracias a MSL Quantum, hemos mejorado nuestra eficiencia operativa y
           reducido costos significativamente.”
-        tagline: Testimonial 1
+        tagline: 'Carlos García '
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
