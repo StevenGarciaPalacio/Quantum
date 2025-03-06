@@ -7,7 +7,7 @@ sections:
       text: 'Transforma tu negocio con Quantum: Más eficiencia, menos costos'
       color: text-dark
       type: TitleBlock
-    subtitle: Innovación cuántica para transformar tu negocio
+    subtitle: ''
     text: >
       En MSL Quantum, utilizamos la inteligencia artificial para revolucionar la
       manera en que operan las empresas, maximizando la eficiencia y reduciendo
