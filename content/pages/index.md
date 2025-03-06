@@ -54,7 +54,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 40%
-        subtitle: Numbers Done
+        subtitle: Reducción en tiempos operativos
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
