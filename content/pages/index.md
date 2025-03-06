@@ -408,7 +408,7 @@ sections:
           “Gracias a MSL Quantum, hemos mejorado nuestra eficiencia operativa y
           reducido costos significativamente.”
         tagline: 'Carlos García '
-        subtitle: 'Maria Walters, Company'
+        subtitle: CEO de Innovatech
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
