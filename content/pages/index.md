@@ -13,7 +13,7 @@ sections:
       manera en que operan las empresas, maximizando la eficiencia y reduciendo
       costos.
     actions:
-      - label: Get started
+      - label: Solicita una demo gratuita
         altText: ''
         url: /
         showIcon: false
