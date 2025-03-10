@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Transforma tu negocio con Quantum: Más eficiencia, menos costos'
+      text: 'Más eficiencia, menos costos'
       color: text-dark
       type: TitleBlock
     subtitle: ''
