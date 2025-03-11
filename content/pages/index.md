@@ -419,7 +419,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Tu salto cuántico comienza aquí
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
