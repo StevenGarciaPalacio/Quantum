@@ -336,8 +336,9 @@ sections:
       - title: Soluciones Personalizadas
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Adaptamos nuestras soluciones de automatización a las necesidades
+          específicas de tu negocio.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
