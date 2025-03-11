@@ -423,11 +423,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ¿Listo para transformar tus procesos?
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      *Déjanos tus datos y un experto en IA se comunicará contigo en menos de 24
+      horas.*
     media:
       fields:
         - name: name
