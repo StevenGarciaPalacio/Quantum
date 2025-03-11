@@ -334,7 +334,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - title: Soluciones Personalizadas
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >
           Adaptamos nuestras soluciones de automatización a las necesidades
