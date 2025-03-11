@@ -331,7 +331,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Innovación Continua
     items:
       - title: Soluciones Personalizadas
         tagline: ''
