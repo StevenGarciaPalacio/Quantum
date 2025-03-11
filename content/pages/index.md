@@ -325,7 +325,7 @@ sections:
         textAlign: center
         fontWeight: 500
   - title:
-      text: List of features here
+      text: Transformación Digital con MSL Quantum
       color: text-primary
       styles:
         self:
