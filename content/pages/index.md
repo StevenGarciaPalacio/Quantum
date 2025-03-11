@@ -356,7 +356,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Seguridad de Datos
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
