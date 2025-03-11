@@ -382,7 +382,7 @@ sections:
         type: FeaturedItem
       - title: Soporte Continuo
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
           Nuestro equipo está disponible 24/7 para resolver cualquier consulta o
           problema técnico.
