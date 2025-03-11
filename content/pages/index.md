@@ -206,11 +206,9 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Descubre el Poder de la IA
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Mira cómo la inteligencia artificial de MSL Quantum puede transformar tus
+      procesos empresariales para mejor.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
