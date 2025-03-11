@@ -358,7 +358,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Seguridad de Datos
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: |
           Protegemos tus datos con las mejores prácticas de seguridad y cifrado.
