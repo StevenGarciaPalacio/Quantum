@@ -359,7 +359,7 @@ sections:
         type: FeaturedItem
       - title: Seguridad de Datos
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Protegemos tus datos con las mejores prácticas de seguridad y cifrado.
         image:
