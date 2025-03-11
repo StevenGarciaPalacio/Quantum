@@ -381,7 +381,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Soporte Continuo
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >+
           Nuestro equipo está disponible 24/7 para resolver cualquier consulta o
