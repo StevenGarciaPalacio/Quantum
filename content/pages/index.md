@@ -325,7 +325,7 @@ sections:
         textAlign: center
         fontWeight: 500
   - title:
-      text: Transformación Digital con MSL Quantum
+      text: Transformación Digital con QuantumCore Techno
       color: text-primary
       styles:
         self:
