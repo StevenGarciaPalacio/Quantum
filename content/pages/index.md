@@ -28,7 +28,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Q
+      label: Quantumcore techno
       color: text-primary
       type: Badge
     elementId: ''
