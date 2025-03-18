@@ -208,7 +208,8 @@ sections:
     subtitle: Descubre el Poder de la IA
     text: >+
       <div style="text-align: center">Mira cómo la inteligencia artificial de
-      MSL Quantum puede transformar tus procesos empresariales para mejor.</div>
+      QuantumCore Techno puede transformar tus procesos empresariales para
+      mejor.</div>
 
     media:
       title: Title of the video
