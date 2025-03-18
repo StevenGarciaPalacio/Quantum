@@ -260,8 +260,8 @@ sections:
     subtitle: Lo que nuestros clientes dicen de nosotros
     items:
       - title: >-
-          “Gracias a MSL Quantum, hemos mejorado nuestra eficiencia operativa y
-          reducido costos significativamente.”
+          “Gracias a QuantumCore Techno, hemos mejorado nuestra eficiencia
+          operativa y reducido costos significativamente.”
         tagline: 'Carlos García '
         subtitle: CEO de Innovatech
         text: |
