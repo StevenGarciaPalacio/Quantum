@@ -28,7 +28,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: MSL Quantum
+      label: Q
       color: text-primary
       type: Badge
     elementId: ''
