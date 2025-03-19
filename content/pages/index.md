@@ -428,7 +428,7 @@ sections:
           name: Nombre de la empresa
           label: Nombre de la empresa
           hideLabel: true
-          placeholder: Your name
+          placeholder: Nombre de la empresa
           isRequired: true
           width: full
         - name: email
