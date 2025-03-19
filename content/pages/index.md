@@ -162,7 +162,7 @@ sections:
       - url: /images/WhatsApp_Image_2025-03-19_at_12.01.04_PM-removebg-preview.png
         altText: SKYhigh Cargo Express Dominicana
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/WhatsApp_Image_2025-03-19_at_12.01.47_PM-removebg-preview.png
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
