@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      En MSL Quantum, utilizamos la inteligencia artificial para revolucionar la
-      manera en que operan las empresas, maximizando la eficiencia y reduciendo
-      costos.
+      En QuantumCore Techno, utilizamos la inteligencia artificial para
+      revolucionar la manera en que operan las empresas, maximizando la
+      eficiencia y reduciendo costos.
     actions:
       - label: Solicita una demo gratuita
         altText: ''
