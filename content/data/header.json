@@ -13,14 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Quienes somos?",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Contactos",
             "altText": "Blog",
             "url": "/blog",
