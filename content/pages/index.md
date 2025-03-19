@@ -162,7 +162,7 @@ sections:
       - url: /images/WhatsApp_Image_2025-03-19_at_12.01.04_PM-removebg-preview.png
         altText: SKYhigh Cargo Express Dominicana
         type: ImageBlock
-      - url: /images/WhatsApp_Image_2025-03-19_at_12.01.47_PM-removebg-preview.png
+      - url: /images/1-removebg-preview.png
         altText: Gemoro Solutions
         type: ImageBlock
       - url: /images/WhatsApp_Image_2025-03-19_at_12.02.35_PM-removebg-preview.png
