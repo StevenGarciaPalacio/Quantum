@@ -163,7 +163,7 @@ sections:
         altText: SKYhigh Cargo Express Dominicana
         type: ImageBlock
       - url: /images/WhatsApp_Image_2025-03-19_at_12.01.47_PM-removebg-preview.png
-        altText: Wellster logo
+        altText: Gemoro Solutions
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
