@@ -439,7 +439,7 @@ sections:
           width: full
           type: EmailFormControl
         - type: SelectFormControl
-          name: Tamano de su compañia
+          name: Tamano de la empresa
           label: Company size
           hideLabel: false
           defaultValue: Please choose...
