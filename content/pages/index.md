@@ -159,7 +159,7 @@ sections:
         textAlign: center
   - subtitle: Nuestros socios y clientes
     images:
-      - url: /images/WhatsApp_Image_2025-03-19_at_12.01.04_PM-removebg-preview.png
+      - url: /images/Untitled_design-removebg-preview.png
         altText: SKYhigh Cargo Express Dominicana
         type: ImageBlock
       - url: /images/1-removebg-preview.png
