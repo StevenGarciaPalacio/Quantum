@@ -460,7 +460,7 @@ sections:
           name: Cargo dentro de la empresa
           label: Cargo dentro de la empresa
           hideLabel: true
-          placeholder: Your name
+          placeholder: Cargo dentro de la empresa
           isRequired: true
           width: full
       elementId: contact-form
