@@ -168,9 +168,6 @@ sections:
       - url: /images/WhatsApp_Image_2025-03-19_at_12.02.35_PM-removebg-preview.png
         altText: Bludeco
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
         type: ImageBlock
