@@ -160,7 +160,7 @@ sections:
   - subtitle: Nuestros socios y clientes
     images:
       - url: /images/WhatsApp_Image_2025-03-19_at_12.01.04_PM-removebg-preview.png
-        altText: Empathy logo
+        altText: SKYhigh Cargo Express Dominicana
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
