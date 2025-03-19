@@ -458,7 +458,7 @@ sections:
           type: TextareaFormControl
         - type: TextFormControl
           name: Cargo dentro de la empresa
-          label: Name
+          label: Cargo dentro de la empresa
           hideLabel: true
           placeholder: Your name
           isRequired: true
