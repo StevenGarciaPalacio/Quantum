@@ -420,7 +420,7 @@ sections:
         - name: Nombre
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Su nombre
           isRequired: true
           width: full
           type: TextFormControl
