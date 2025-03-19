@@ -417,7 +417,7 @@ sections:
       horas.*
     media:
       fields:
-        - name: name
+        - name: Nombre
           label: Name
           hideLabel: true
           placeholder: Your name
