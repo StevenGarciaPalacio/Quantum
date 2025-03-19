@@ -439,6 +439,13 @@ sections:
           options: []
           isRequired: false
           width: full
+        - type: TextFormControl
+          name: Nombre de la empresa
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
         - name: message
           label: Message
           hideLabel: true
