@@ -445,7 +445,7 @@ sections:
           defaultValue: Seleccione
           options:
             - 1 - 10
-            - ''
+            - '10 - 50 '
           isRequired: false
           width: full
         - name: message
