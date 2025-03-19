@@ -460,7 +460,7 @@ sections:
         - name: Que procesos quieres automatizar?
           label: Que procesos quieres automatizar?
           hideLabel: true
-          placeholder: Your message
+          placeholder: Que procesos quieres automatizar?
           width: full
           type: TextareaFormControl
       elementId: contact-form
