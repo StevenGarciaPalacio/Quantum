@@ -329,7 +329,7 @@ sections:
           Adaptamos nuestras soluciones de automatización a las necesidades
           específicas de tu negocio.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/quality=100.avif
           altText: Placeholder Image
           styles:
             self:
