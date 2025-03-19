@@ -442,7 +442,7 @@ sections:
           name: Tamano de la empresa
           label: Company size
           hideLabel: false
-          defaultValue: Please choose...
+          defaultValue: Seleccione
           options: []
           isRequired: false
           width: full
