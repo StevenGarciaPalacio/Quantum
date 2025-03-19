@@ -447,7 +447,7 @@ sections:
             - 1 - 10
             - '10 - 50 '
             - 50 - 150
-            - ''
+            - '+150'
           isRequired: false
           width: full
         - name: message
