@@ -426,7 +426,7 @@ sections:
           type: TextFormControl
         - type: TextFormControl
           name: Nombre de la empresa
-          label: Name
+          label: Nombre de la empresa
           hideLabel: true
           placeholder: Your name
           isRequired: true
