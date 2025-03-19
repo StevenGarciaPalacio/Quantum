@@ -440,7 +440,7 @@ sections:
           type: EmailFormControl
         - type: SelectFormControl
           name: Tamano de la empresa
-          label: Company size
+          label: Tamano de la empresa
           hideLabel: false
           defaultValue: Seleccione
           options:
