@@ -457,7 +457,7 @@ sections:
             - '+150'
           isRequired: false
           width: full
-        - name: message
+        - name: Que procesos quieres automatizar?
           label: Message
           hideLabel: true
           placeholder: Your message
