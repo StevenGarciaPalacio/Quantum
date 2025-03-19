@@ -166,7 +166,7 @@ sections:
         altText: Gemoro Solutions
         type: ImageBlock
       - url: /images/WhatsApp_Image_2025-03-19_at_12.02.35_PM-removebg-preview.png
-        altText: Vise logo
+        altText: Bludeco
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
