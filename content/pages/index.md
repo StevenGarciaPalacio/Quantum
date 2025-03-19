@@ -352,7 +352,7 @@ sections:
         text: |
           Protegemos tus datos con las mejores prácticas de seguridad y cifrado.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/quality=100 (1).avif
           altText: Placeholder image
           styles:
             self:
