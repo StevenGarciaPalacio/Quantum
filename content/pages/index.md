@@ -443,7 +443,8 @@ sections:
           label: Company size
           hideLabel: false
           defaultValue: Seleccione
-          options: []
+          options:
+            - ''
           isRequired: false
           width: full
         - name: message
