@@ -458,7 +458,7 @@ sections:
           isRequired: false
           width: full
         - name: Que procesos quieres automatizar?
-          label: Message
+          label: Que procesos quieres automatizar?
           hideLabel: true
           placeholder: Your message
           width: full
