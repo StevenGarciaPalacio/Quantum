@@ -377,7 +377,7 @@ sections:
           problema técnico.
 
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/download (1).jpg
           altText: Placeholder image
           styles:
             self:
