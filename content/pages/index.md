@@ -438,6 +438,13 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
+        - type: TextFormControl
+          name: Cargo dentro de la empresa
+          label: Cargo dentro de la empresa
+          hideLabel: true
+          placeholder: Cargo dentro de la empresa
+          isRequired: true
+          width: full
         - type: SelectFormControl
           name: Tamano de la empresa
           label: Tamano de la empresa
@@ -456,13 +463,6 @@ sections:
           placeholder: Your message
           width: full
           type: TextareaFormControl
-        - type: TextFormControl
-          name: Cargo dentro de la empresa
-          label: Cargo dentro de la empresa
-          hideLabel: true
-          placeholder: Cargo dentro de la empresa
-          isRequired: true
-          width: full
       elementId: contact-form
       styles:
         self:
