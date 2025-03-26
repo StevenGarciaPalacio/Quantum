@@ -172,7 +172,7 @@ sections:
         altText: Bludeco
         type: ImageBlock
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/Untitled design (1).png
         altText: Image alt text placeholder
         elementId: ''
         styles:
