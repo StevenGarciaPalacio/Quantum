@@ -7,6 +7,9 @@ sections:
       text: 'Más eficiencia, menos costos'
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 400
     subtitle: ''
     text: >
       En QuantumCore Techno, utilizamos la inteligencia artificial para
@@ -159,7 +162,7 @@ sections:
         textAlign: center
   - subtitle: Nuestros socios y clientes
     images:
-      - url: /images/Untitled_design-removebg-preview.png
+      - url: /images/Untitled_design__2_-removebg-preview.png
         altText: SKYhigh Cargo Express Dominicana
         type: ImageBlock
       - url: /images/1-removebg-preview.png
@@ -168,6 +171,13 @@ sections:
       - url: /images/3-removebg-preview.png
         altText: Bludeco
         type: ImageBlock
+      - type: ImageBlock
+        url: /images/Untitled design (1).png
+        altText: SUITE CRM
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
