@@ -180,7 +180,7 @@ sections:
             borderRadius: medium
       - type: ImageBlock
         url: /images/hero2.svg
-        altText: Image alt text placeholder
+        altText: SendPulse
         elementId: ''
         styles:
           self:
