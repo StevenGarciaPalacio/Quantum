@@ -179,7 +179,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/Untitled design (3).png
         altText: SendPulse
         elementId: ''
         styles:
