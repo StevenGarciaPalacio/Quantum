@@ -187,7 +187,7 @@ sections:
             borderRadius: medium
       - type: ImageBlock
         url: /images/Untitled design (4).png
-        altText: Image alt text placeholder
+        altText: Bitrix24
         elementId: ''
         styles:
           self:
