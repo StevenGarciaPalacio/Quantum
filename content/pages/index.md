@@ -162,7 +162,7 @@ sections:
         textAlign: center
   - subtitle: Nuestros socios y clientes
     images:
-      - url: /images/Untitled design (2).png
+      - url: /images/Untitled_design__2_-removebg-preview.png
         altText: SKYhigh Cargo Express Dominicana
         type: ImageBlock
       - url: /images/1-removebg-preview.png
