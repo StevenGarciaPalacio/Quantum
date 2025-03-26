@@ -7,6 +7,9 @@ sections:
       text: 'Más eficiencia, menos costos'
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 400
     subtitle: ''
     text: >
       En QuantumCore Techno, utilizamos la inteligencia artificial para
