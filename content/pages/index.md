@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          fontWeight: 400
+          fontWeight: 500
     subtitle: ''
     text: >
       En QuantumCore Techno, utilizamos la inteligencia artificial para
