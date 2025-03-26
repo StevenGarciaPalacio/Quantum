@@ -173,7 +173,7 @@ sections:
         type: ImageBlock
       - type: ImageBlock
         url: /images/Untitled design (1).png
-        altText: Image alt text placeholder
+        altText: SUITE CRM
         elementId: ''
         styles:
           self:
