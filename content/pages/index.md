@@ -208,7 +208,7 @@ sections:
             borderRadius: medium
       - type: ImageBlock
         url: /images/Untitled_design__7_-removebg-preview.png
-        altText: Image alt text placeholder
+        altText: Porkbun
         elementId: ''
         styles:
           self:
