@@ -194,7 +194,7 @@ sections:
             borderRadius: medium
       - type: ImageBlock
         url: /images/Untitled_design__5_-removebg-preview.png
-        altText: Image alt text placeholder
+        altText: Twilio
         elementId: ''
         styles:
           self:
