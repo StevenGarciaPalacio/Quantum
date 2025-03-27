@@ -193,7 +193,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/Untitled_design__5_-removebg-preview.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
