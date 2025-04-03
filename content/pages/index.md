@@ -179,13 +179,6 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/Untitled design (3).png
-        altText: SendPulse
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
         url: /images/Untitled design (4).png
         altText: Bitrix24
         elementId: ''
@@ -195,6 +188,13 @@ sections:
       - type: ImageBlock
         url: /images/Untitled_design__1_-removebg-preview.png
         altText: Zoho
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/Untitled design (3).png
+        altText: SendPulse
         elementId: ''
         styles:
           self:
