@@ -193,6 +193,13 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
         url: /images/Untitled_design__5_-removebg-preview.png
         altText: Twilio
         elementId: ''
@@ -209,13 +216,6 @@ sections:
       - type: ImageBlock
         url: /images/Untitled_design__7_-removebg-preview.png
         altText: Porkbun
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/hero2.svg
-        altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
