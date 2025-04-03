@@ -194,7 +194,7 @@ sections:
             borderRadius: medium
       - type: ImageBlock
         url: /images/Untitled_design__1_-removebg-preview.png
-        altText: Image alt text placeholder
+        altText: Zoho
         elementId: ''
         styles:
           self:
