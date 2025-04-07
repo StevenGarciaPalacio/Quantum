@@ -247,11 +247,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Potencia Tu Negocio con Soluciones Integrales
-    text: >+
-      <div style="text-align: center">Mira cómo la inteligencia artificial de
-      QuantumCore Techno puede transformar tus procesos empresariales para
-      mejor.</div>
-
+    text: "<div style=\"text-align: center\">✅\_**Automatización Inteligente**\_*(RPA, flujos de trabajo)*\n✅\_**Analítica Predictiva**\_*(Dashboards en tiempo real, BI)*\n✅\_**Integración Tecnológica**\_*(CRM, ERP, sistemas legacy)*\n✅\_**Escalabilidad Garantizada**\_*(Crece sin límites operativos)*\n\n</div>\n\n"
     media:
       title: Title of the video
       url: 'https://youtu.be/arVaTYoUeK0'
