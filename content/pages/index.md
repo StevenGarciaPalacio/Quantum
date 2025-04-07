@@ -246,7 +246,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Descubre el Poder de la IA
+    subtitle: Potencia Tu Negocio con Soluciones Integrales
     text: >+
       <div style="text-align: center">Mira cómo la inteligencia artificial de
       QuantumCore Techno puede transformar tus procesos empresariales para
