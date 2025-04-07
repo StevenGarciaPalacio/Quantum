@@ -240,7 +240,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Únete a la Transformación
+      text: '#Tecnología que Revoluciona Operaciones'
       color: text-dark
       styles:
         self:
