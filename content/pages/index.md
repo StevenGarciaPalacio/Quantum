@@ -240,7 +240,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Tecnología que revoluciona Operaciones
+      text: Tecnología que revoluciona
       color: text-dark
       styles:
         self:
