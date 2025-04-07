@@ -11,10 +11,11 @@ sections:
         self:
           fontWeight: 400
     subtitle: ''
-    text: >
-      En QuantumCore Techno, utilizamos la inteligencia artificial para
-      revolucionar la manera en que operan las empresas, maximizando la
-      eficiencia y reduciendo costos.
+    text: >+
+      En QuantumCore Techno, *revolucionamos la manera en que operan las
+      empresas mediante tecnología de vanguardia, escalabilidad garantizada y un
+      enfoque centrado en resultados.*
+
     actions:
       - label: Solicita una demo gratuita
         altText: ''
